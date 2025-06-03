@@ -1,0 +1,24 @@
+#navbar{
+    height: 70px;
+    background-color: rgb(56, 18, 18);
+
+}
+a{
+    color: white;
+    margin-right: 100px;
+}
+#yes{
+   color: white;
+    background-color: rgb(56, 18, 18);
+    text-align: center;
+}
+button{
+    background-color: aqua;
+    transition: all 2s 1ms;
+}
+button:hover{
+    background-color: blueviolet;
+}
+button:active{
+    background-color: orange;
+}
